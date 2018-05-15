@@ -1,8 +1,8 @@
 # Site settings
 title:          Metis.io
 description:    "A site for educational technology"
-baseurl:        "/metis.io"
-url:            "https://swoicik.github.io"
+baseurl:        "/CYOD"
+url:            "https://swoicik.github.io/CYOD/"
 
 # Author
 author:
