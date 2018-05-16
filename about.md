@@ -8,6 +8,8 @@ permalink: /about/
 
 If you want to contribute or support this project, please visit the [contribute page](/cyod/contribute) for ways to help. 
 
+If you have any questions or comments you can message me on Twitter, [@swoicik](https://twitter.com/swoicik).
+
 ## The Book
 The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose. 
 
