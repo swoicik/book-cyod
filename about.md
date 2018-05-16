@@ -23,7 +23,13 @@ Given that the technology changes constantly, my focus will be on the systems yo
 Apart from being a goal to actually write a book, this format seemed the best way to distribute these ideas and best practices in the most beneficial and impactful way. It's a scaleable way to share an idea. 
 
 ## Why Public? 
+Before deciding to attempt writing a book, I did a lot of research on how to write a book, and reached out to people that had done it before. I wanted an idea of what I was getting into. Most advice boils down to "Just write." Good advice, but I needed more. 
 
+Writing a book is a weird thing. A person works almost in secret (or with a small group of people) for a very long time then releases everything into the world. The final product is known, but very little is shared about the process. 
+
+When I'm learning how to code something new, I don't go look at the final products that people made, I look at the source code and try to figure out how they built it.
+
+I wanted to share the entire process I'm going through (the source code of the book), hopefully it will help someone else. 
 
 ## Background
 I have been working with educational technology since my first student worker job at Fordham University. A professor was kind enough to hire me to work in a grant program providing technology and credit recovery resources to high school students in the Bronx. My first full time job in education was also part of this grant. Since then, I've worked in multiple public school systems, a library consortium, and consulted or collaborated on many education projects.
