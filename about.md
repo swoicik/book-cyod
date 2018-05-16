@@ -11,7 +11,13 @@ I am writing this book entirely in the public (a good idea or an insane one?). Y
 If you want to contribute or support this project, please visit the [contribute page](/cyod/contribute) for ways to help. 
 
 ## The Book
+The main focus of the book is how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose. 
 
+I have seen or been part of too many well intentioned and well funded technology programs that fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. 
+
+I want to share what I have learned over the years and hopefully show that a 1:1 program is a lot more than just the device. The device(s) you choose matters a lot less than you think. 
+
+Given that the technology changes constantly, my focus will be on the systems you need in place to make the program work and less about specific technology. Iwant the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend. 
 
 ## Why A Book?
 
