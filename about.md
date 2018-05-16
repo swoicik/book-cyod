@@ -4,20 +4,16 @@ title: "About"
 permalink: /about/
 ---
 
-I am [swoicik](https://swoicik.com), and this is my first attempt at writing a book.
-
-I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on [GitHub](https://github.com/swoicik/cyod) or check back to this site for updates. 
+**I am [swoicik](https://swoicik.com), and this is my first attempt at writing a book.** I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on [GitHub](https://github.com/swoicik/cyod) or check back to this site for updates. 
 
 If you want to contribute or support this project, please visit the [contribute page](/cyod/contribute) for ways to help. 
 
 ## The Book
-The main focus of the book is how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose. 
+The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose. 
 
-I have seen or been part of too many well intentioned and well funded technology programs that fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. 
+Too many well intentioned and well funded technology programs fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. I will share what I have learned and show how to mitigate or remove these obstacles. A 1:1 program is a lot more than just the device. The actual device(s) you choose matters very little. 
 
-I want to share what I have learned over the years and hopefully show that a 1:1 program is a lot more than just the device. The device(s) you choose matters a lot less than you think. 
-
-Given that the technology changes constantly, my focus will be on the systems you need in place to make the program work and less about specific technology. I want the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend. 
+The technology used in these programs changes constantly, so my focus will be on the systems you need in place to make the program work and less about specific technology. I want the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend. 
 
 ## Why A Book?
 Apart from being a goal to actually write a book, this format seemed the best way to distribute these ideas and best practices in the most beneficial and impactful way. It's a scaleable way to share an idea. 
