@@ -1,0 +1,10 @@
+Interesting Links
+- http://blogs.plos.org/neurotribes/2011/06/02/practical-tips-on-writing-a-book-from-22-brilliant-authors/
+- https://www.janefriedman.com/self-publish-your-book/
+- http://nicholaserik.com/start/
+- http://bookfunnel.com/
+- https://www.janefriedman.com/permissions-and-fair-use/
+- http://designingforperformance.com/preface/
+- https://msperlin.github.io/2017-02-16-Writing-a-book/
+- http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html
+- https://gist.github.com/matthewmccullough/9381765
