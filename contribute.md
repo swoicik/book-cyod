@@ -9,7 +9,7 @@ There are lots of way to contribute and support this project. Any and all ways a
 ## Spread the Word
 Sharing this project with other is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know ([@swoicik](https://twitter.com/swoicik)).
 
-## Help Editing and Proofreading 
+## Help Editing
 You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doen'st sound right, let me know. You can create an issue on [GitHub](https://github.com/swoicik/cyod/issues) or message me on [Twitter](https://twitter.com/swoicik).
 
 ## Buy Me a Coffee
