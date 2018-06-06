@@ -12,7 +12,7 @@ I didn't originally plan to write a book. I have never written a book before or 
 
 Once deciding to write a book, there was a lot of research into how to write a book. Reading blog posts, books on writing, and talking to people who had written books before. I got a lot of great information, and thank you to everyone who took time to answer my questions. But I didn't get to look into the actual process of writing a book. The revisions, the editing, or the decision process to get from idea to book. 
 
-This [site](https://swoicik.github.io/cyod), and subsequent writing on [GitHub](https://github.com/swoicik.cyod), will show my entire writing process from idea to finished product. You can see ideas from when I started (even the bad ones), where those ideas went, and how the book evolved overtime. My hope is that beyond just writing a useful book, I will help show others how to write a book as well. So that anyone that has an idea but seems intimidated with writing an entire book will get some guidance. 
+This [site](https://swoicik.github.io/cyod), and subsequent writing on [GitHub](https://github.com/swoicik/cyod), will show my entire writing process from idea to finished product. You can see ideas from when I started (even the bad ones), where those ideas went, and how the book evolved overtime. My hope is that beyond just writing a useful book, I will help show others how to write a book as well. So that anyone that has an idea but seems intimidated with writing an entire book will get some guidance. 
 
 I was inspired to write a book in this way after reading many other great books on GitHub. 
 
