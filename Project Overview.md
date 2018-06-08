@@ -36,6 +36,7 @@ Book will be broken up into short sections (not chapters). Style model is the bo
 - Not a replacement for teaching or teachers 
 - Systems Over Hardware 
 - Culture Matters
+- Familiar Devices 
 - Accessible Software
 - There Isn’t One Learning Style
 - Start Young (Learning How to Learn with Technology)
