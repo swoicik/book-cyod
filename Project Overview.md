@@ -25,6 +25,7 @@ I have a lot of ideas about making technology more accessible in education. My a
 Book will be broken up into short sections (not chapters). Style model is the books by 37 Signals (REMOTE, RE-WORK). 
 
 ## Sections (in no particular order)
+- Dedication
 - Introduction
 - It’s Not About the Device 
 - Start the Discussion Early. Include Everyone
@@ -50,3 +51,7 @@ Book will be broken up into short sections (not chapters). Style model is the bo
 - Why I Wrote This Book 
 
 ## Content Ideas
+Separate book into three main categories. Separate sections above into each category. 
+1. Technology
+2. Students
+3. Teachers 
