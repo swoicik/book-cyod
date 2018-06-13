@@ -26,36 +26,3 @@ I have a lot of ideas about making technology more accessible in education. My a
 
 ## Writing Style
 Book will be broken up into short sections (not chapters). Style model is the books by 37 Signals (REMOTE, RE-WORK). 
-
-## Sections (in no particular order)
-- Dedication
-- Introduction
-- It’s Not About the Device 
-- Start the Discussion Early. Include Everyone
-- Include Students
-- 1:1 Is For Everyone 
-- 1:1 Does Not Equal Always On
-- The Projector
-- It doesn't have to scale
-- Not a replacement for teaching or teachers 
-- Systems Over Hardware 
-- Culture Matters
-- Familiar Devices 
-- Accessible Software
-- There Isn’t One Learning Style
-- Start Young (Learning How to Learn with Technology)
-- It’s Not A Fight For Control (Between Users and IT)
-- Use Technology As A Step Forward, Not A Replacement
-- It’s A Community Effort
-- Digital Citizenship 
-- Student At Home
-- Working Offline
-- It's Never Done (ongoing process of change and refinement)
-- Who Wrote This Book
-- Why I Wrote This Book 
-
-## Content Ideas
-Separate book into three main categories. Separate sections above into each category. 
-1. Technology
-2. Students
-3. Teachers 
