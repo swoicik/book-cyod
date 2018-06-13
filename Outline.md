@@ -30,6 +30,13 @@ Include everyone in the 1-1 program, don’t single out students. It never makes
 ### The Projector
 
 ### It doesn't have to scale
+Don't let scalability get in the way of progress. Efficiently won't always be there at the start. It's a process. Figure out a process that works first, then work on scale and efficiency. 
+
+Some things just need to be done by hand to get done. 
+
+Hard work is hard. 
+
+Example of transcribing inventory list from paper forms to Basecamp individually for collection. 
 
 ### Not a replacement for teaching or teachers 
 
@@ -40,6 +47,8 @@ Plan how the 1-1 program will actually work in the classroom and administrativel
 Include the school and district community early and often. Let them know the small changes you will be making and what the overall goals is. Have a driving principle as to why you are doing things the way you are, and make it known to all parties. 
 
 This will help people understand what you are doing, and if they have criticism or comment, they will be in the view of the overall goal you are trying to achieve or guiding principle. 
+
+"Changing culture is hard - it's easier for leadership to believe buying a new product/technology will do it for them, but it rarely does. And when this fails, there's a new product on the horizon that makes similar promises and the loop continues. #someproblemsarenttechnological" - Scott Berkun - https://twitter.com/berkun/status/996534329302966273
 
 ### Familiar Devices 
 
