@@ -5,6 +5,9 @@ A general overview of what this project and book will be about. To act as a guid
 Personalized Learning, Personalized Technology
 
 ## Who is this book for?
+The book is geared towards people running a 1:1 program in their schools. Technology Directors and Technology Staff. Administrators of teachers could also benefit from understanding the concepts in this book. 
+
+The book should be approachable enough to not require an in-depth technology background to understand. Talking more about concepts and best practices, rather than actual code and software used. 
 
 ## What is this book about?
 How to build a sustainable and impactful 1:1 technology plan in a school district (K12). It can be applied either by starting from scratch or adapting a current 1:1 program. 
