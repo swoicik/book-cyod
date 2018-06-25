@@ -13,6 +13,8 @@ Book should be separated into three main categories. Each section/chapter fittin
 ## Introduction
 Don’t start with the device. In this book, I am going to refrain from recommending or using a specific device. Chromebooks, iPad, Surfacebooks, Kindles, Netbooks, have all seen their day in education. If you try to build your 1-1 program around a specific device, you’re not going to be ready in the future when things change. Have a system that is flexible and a culture that is adaptable. Whatever the new device or technology is, you should be able to just swap it into your existing system. Not have to rethink the entire program because you move from iPads to Chromebooks. 
 
+What caused the idea of this book. Son doesn't care about the device, just the access. Gave student multiple device options during state testing and student chose to use what worked best. Some used keyboard, some used touchscreen, some needed a mouse. 
+
 ## It’s Not About the Device 
 Don’t start with the device. Many districts focus on the device first. Chromebook vs iPad vs netbook vs Surface vs Kindle vs whatever. You can find the hardware to fit your needs and budget after you have the plan and system in place. 
 
@@ -28,6 +30,9 @@ Include everyone in the 1-1 program, don’t single out students. It never makes
 ## 1:1 Does Not Equal Always On
 
 ## The Projector
+If every student has a screen in front of them, they don't need to see a screen at the front of the room as well. 
+
+Movie theater compared to personal device. Decline of watching movies on shared screen to individual screen. 
 
 ## It doesn't have to scale
 Don't let scalability get in the way of progress. Efficiently won't always be there at the start. It's a process. Figure out a process that works first, then work on scale and efficiency. 
