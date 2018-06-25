@@ -8,15 +8,15 @@ Book should be separated into three main categories. Each section/chapter fittin
 3. Teachers 
 4. Final Thoughts
 
-### Dedication
+## Dedication
 
-### Introduction
+## Introduction
 Don’t start with the device. In this book, I am going to refrain from recommending or using a specific device. Chromebooks, iPad, Surfacebooks, Kindles, Netbooks, have all seen their day in education. If you try to build your 1-1 program around a specific device, you’re not going to be ready in the future when things change. Have a system that is flexible and a culture that is adaptable. Whatever the new device or technology is, you should be able to just swap it into your existing system. Not have to rethink the entire program because you move from iPads to Chromebooks. 
 
-### It’s Not About the Device 
+## It’s Not About the Device 
 Don’t start with the device. Many districts focus on the device first. Chromebook vs iPad vs netbook vs Surface vs Kindle vs whatever. You can find the hardware to fit your needs and budget after you have the plan and system in place. 
 
-### Start the Discussion Early. Include Everyone
+## Start the Discussion Early. Include Everyone
 
 ### Include Students
 
