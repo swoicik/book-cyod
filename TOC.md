@@ -1,4 +1,4 @@
-# Book Outline
+# Table of Contents 
 
 A rough draft of the outline for the book (chapters are not currently listed in order, but in the random order I throughly of them. 
 
