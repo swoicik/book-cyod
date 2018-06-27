@@ -23,6 +23,7 @@ I have a lot of ideas about making technology more accessible in education. My a
 
 ## Additional Resource Ideas 
 - A workbook of how to evaluates your 1:1 program. Templates of surgery that are sent to staff, students, and parents. 
+- example documentation for AUP, Letter to parents, insurance program, etc..
 
 ## Writing Style
 Book will be broken up into short sections (not chapters). Style model is the books by 37 Signals (REMOTE, RE-WORK). 
