@@ -11,6 +11,8 @@ Book should be separated into main categories. Each section/chapter fitting unde
 
 ## Dedication
 
+## Authors Notes
+
 ## Introduction
 Don’t start with the device. In this book, I am going to refrain from recommending or using a specific device. Chromebooks, iPad, Surfacebooks, Kindles, Netbooks, have all seen their day in education. If you try to build your 1-1 program around a specific device, you’re not going to be ready in the future when things change. Have a system that is flexible and a culture that is adaptable. Whatever the new device or technology is, you should be able to just swap it into your existing system. Not have to rethink the entire program because you move from iPads to Chromebooks. 
 
