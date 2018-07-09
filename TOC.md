@@ -2,10 +2,11 @@
 
 A rough draft of the outline for the book (chapters are not currently listed in order, but in the random order I throughly of them. 
 
-Book should be separated into three main categories. Each section/chapter fitting under one of the categories. 
-1. Technology
-2. Students
-3. Teachers 
+Book should be separated into main categories. Each section/chapter fitting under one of the categories. 
+1. Introduction
+2. Technology
+3. Students
+4. Teachers 
 4. Final Thoughts
 
 ## Dedication
