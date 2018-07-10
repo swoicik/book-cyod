@@ -41,8 +41,6 @@ Going 1-1 isn’t an overnight success. It will take multiple school years to ge
 Go Green. 1-1 programs are a great way to push for a reduction or removal of printing. When everyone has a screen in front of them, they shouldn’t need to print out worksheets.
 
 ## Quotes
-"It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama - https://abcnews.go.com/Politics/president-obamas-back-school-message-students/story?id=8509426
-
 "There can be infinite uses of the computer and of new age technology, but if teachers themselves are not able to bring it into the classroom and make it work, then it fails." - Nancy Kassebaum
 
 "New technology is common, new thinking is rare." - Sir Peter Blake - https://sirpeterblaketrust.org/home
