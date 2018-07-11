@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "School Committee CYOD Introduction"
+title:  "Introducing CYOD to School Committee"
 author: "swoicik"
 ---
 
