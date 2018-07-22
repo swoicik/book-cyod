@@ -40,6 +40,20 @@ Going 1-1 isn’t an overnight success. It will take multiple school years to ge
 
 Go Green. 1-1 programs are a great way to push for a reduction or removal of printing. When everyone has a screen in front of them, they shouldn’t need to print out worksheets.
 
+## Chapter Ideas
+
+### Anywhere Not Everywhere
+
+### Sunk Cost Bias
+- https://en.m.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy
+- https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/ 
+
+### Endowment Effect
+Wikipedia Example: This is typically illustrated in two ways.[3] In a valuation paradigm, people will tend to pay more to retain something they own than to obtain something they do not own--even when there is no cause for attachment, or even if the item was only obtained minutes ago. In an exchange paradigm, people given a good are reluctant to trade it for another good of similar value. For example, participants first given a Swiss chocolate bar were generally unwilling to trade it for a coffee mug, whereas participants first given the coffee mug were generally unwilling to trade it for the chocolate bar. https://en.m.wikipedia.org/wiki/Endowment_effect 
+
+### Status Quo Bias
+Wikipedia Definition: Status quo bias is an emotional bias; a preference for the current state of affairs. The current baseline (or status quo) is taken as a reference point, and any change from that baseline is perceived as a loss. Status quo bias should be distinguished from a rational preference for the status quo ante, as when the current state of affairs is objectively superior to the available alternatives, or when imperfect information is a significant problem. A large body of evidence, however, shows that status quo bias frequently affects human decision-making.
+
 ## Quotes
 "It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama - https://abcnews.go.com/Politics/president-obamas-back-school-message-students/story?id=8509426
 
