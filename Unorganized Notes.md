@@ -54,6 +54,9 @@ Wikipedia Example: This is typically illustrated in two ways.[3] In a valuation 
 ### Status Quo Bias
 Wikipedia Definition: Status quo bias is an emotional bias; a preference for the current state of affairs. The current baseline (or status quo) is taken as a reference point, and any change from that baseline is perceived as a loss. Status quo bias should be distinguished from a rational preference for the status quo ante, as when the current state of affairs is objectively superior to the available alternatives, or when imperfect information is a significant problem. A large body of evidence, however, shows that status quo bias frequently affects human decision-making.
 
+### Creating Conditions for Growth/Success
+And the complimentary point of setting up conditions to not allow the growth of things that would hurt your program or culture. 
+
 ## Quotes
 "It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama - https://abcnews.go.com/Politics/president-obamas-back-school-message-students/story?id=8509426
 
