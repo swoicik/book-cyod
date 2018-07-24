@@ -40,6 +40,8 @@ Going 1-1 isn’t an overnight success. It will take multiple school years to ge
 
 Go Green. 1-1 programs are a great way to push for a reduction or removal of printing. When everyone has a screen in front of them, they shouldn’t need to print out worksheets.
 
+I've seen too much good educational dollars go towards bad technology implementation. 
+
 ## Chapter Ideas
 
 ### Anywhere Not Everywhere
