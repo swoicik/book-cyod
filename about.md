@@ -6,7 +6,7 @@ permalink: /about/
 
 **I am [swoicik](https://swoicik.com), and this is my first attempt at writing a book.** I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on [GitHub](https://github.com/swoicik/cyod) or check back to this site for updates. 
 
-If you want to contribute or support this project, please visit the [contribute page](/cyod/contribute) for ways to help. 
+If you want to contribute or support this project, please visit the [contribute page](/contribute) for ways to help. 
 
 If you have any questions or comments you can message me on Twitter, [@swoicik](https://twitter.com/swoicik).
 
