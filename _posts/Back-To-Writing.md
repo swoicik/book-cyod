@@ -2,7 +2,6 @@
 layout: post
 title:  "Back To Writing"
 author: "swoicik"
-published: false
 ---
 
 I took the month of August off from writing and working on this book. It was good to take a vacation. 
