@@ -59,6 +59,10 @@ Wikipedia Definition: Status quo bias is an emotional bias; a preference for the
 ### Creating Conditions for Growth/Success
 And the complimentary point of setting up conditions to not allow the growth of things that would hurt your program or culture. 
 
+### 20-60-20 Rule
+
+### the Device you know 
+
 ## Quotes
 "It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama - https://abcnews.go.com/Politics/president-obamas-back-school-message-students/story?id=8509426
 
