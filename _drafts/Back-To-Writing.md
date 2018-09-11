@@ -5,4 +5,8 @@ author: "swoicik"
 published: false
 ---
 
-Over the month of August I took a break from writing. I took a couple vacations and then got ready for the start of school.
+I took the month of August off from writing and working on this book. It was good to take a vacation. 
+
+I am now back to writing with some fresh perspective and better thought out ideas after having time to just let them sit. I will be updating the GitHub repository more often with new research notes and a few added chapters to the outline. 
+
+Keep checking back for more updates. 
