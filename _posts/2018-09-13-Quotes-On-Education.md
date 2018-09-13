@@ -4,11 +4,19 @@ title:  "Quotes On Education"
 author: "swoicik"
 ---
 
-During the process of writing this book, I have come accross a number of quotes about education. My plan
+During the process of writing this book, I have come accross a number of quotes about education. I plan to have a quote at the start of each chapter or section. I've always been a fan of a good quote. 
+
+I decided to share some of the quotes I've collected. They might be helpful to other people. 
+
+This first quote, by author Neil Gaiman,is one of my favorites. I use it a lot in presentations as well. 
 
 > "The challenge becomes, not finding that scarce plant growing in the desert, but finding a specific plant growing in a jungle." - Neil Gaiman
 
+This next quote is from Barack Obama. He was addressing an elementary school classroom. 
+
 > "It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama
+
+The next quotes are just ones I've found during my research. Not sure if any of them will make it into the book, but they are good anyways. 
 
 > "There can be infinite uses of the computer and of new age technology, but if teachers themselves are not able to bring it into the classroom and make it work, then it fails." - Nancy Kassebaum
 
@@ -27,5 +35,7 @@ During the process of writing this book, I have come accross a number of quotes 
 > "Since we live in an age of innovation, a practical education must prepare a man for work that does not yet exist and cannot yet be clearly defined." - Peter F. Drucker
 
 > "The world we have created is a product of our thinking. It cannot be changed without changing our thinking." - Albert Einstein
+
+This one is from Mark Zuckerberg about how he wrote the Founder's Letter before Facebook went public on his iPhone. For anyone that says you can't do real typing on a touchscreen. 
 
 > "Want to know something sort of funny?" he told TechCrunch founder Michael Arrington, "You know the Founder’s Letter in the S-1, well I wrote that on my phone." - Mark Zuckerberg
