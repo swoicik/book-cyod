@@ -2,7 +2,6 @@
 layout: post
 title:  "Quotes On Education"
 author: "swoicik"
-published: false
 ---
 
 > "The challenge becomes, not finding that scarce plant growing in the desert, but finding a specific plant growing in a jungle." - Neil Gaiman
