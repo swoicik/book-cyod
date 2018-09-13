@@ -4,6 +4,8 @@ title:  "Quotes On Education"
 author: "swoicik"
 ---
 
+During the process of writing this book, I have come accross a number of quotes about education. My plan
+
 > "The challenge becomes, not finding that scarce plant growing in the desert, but finding a specific plant growing in a jungle." - Neil Gaiman
 
 > "It's the story of students who sat where you sit 250 years ago, and went on to wage a revolution and found this nation. Students who sat where you sit 75 years ago who overcame a Depression and won a world war; who fought for civil rights and put a man on the moon. Students who sat where you sit 20 years ago who founded Google, Twitter and Facebook and changed the way we communicate with each other." - Barack Obama
