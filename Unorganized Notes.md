@@ -44,8 +44,6 @@ I've seen too much good educational dollars go towards bad technology implementa
 
 ## Chapter Ideas
 
-### Anywhere Not Everywhere
-
 ### Sunk Cost Bias
 - https://en.m.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy
 - https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/ 
@@ -58,8 +56,6 @@ Wikipedia Definition: Status quo bias is an emotional bias; a preference for the
 
 ### Creating Conditions for Growth/Success
 And the complimentary point of setting up conditions to not allow the growth of things that would hurt your program or culture. 
-
-### 20-60-20 Rule
 
 ### the Device you know 
 
