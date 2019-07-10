@@ -10,16 +10,10 @@ post_class: post-template
 
 	<div class="row">
 
-		<!-- Sidebar -->
-        <div class="col-sm-4">
-        {% include sidebar.html %}
-        </div>
-		
-
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
-		<div class="col-sm-8">
+		<div class="col-md-8 col-lg-8">
 			<div class="mainheading">              
                 
                 <!-- Post Categories -->
@@ -96,18 +90,21 @@ post_class: post-template
             ================================================== -->
             <section>
             <div id="comments">                          
-                <p>If you'd like to discuss anything in this article please message on Twitter or email. 
+                
             </div>
             </section>
             <!--End Comments
             ================================================== -->
-            
-            
-
+			
 		</div>
 		<!-- End Post -->
         
-        
+        <!-- Right Sidebar -->
+        <div class="col-md-4 col-lg-4">
+        <div class="sidebar-right">
+        {% include sidebar.html %}
+        </div>
+        </div>
 
 	</div>
 
