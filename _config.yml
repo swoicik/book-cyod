@@ -1,0 +1,42 @@
+# Site
+name: "CHOICE: Personalized Learning, Personalized Technology"
+title: "CHOICE: Personalized Learnign, Personalized Technology"
+description: "Educational technology book about the CYOD program"
+meta_description: "An educational technology book about the CYOD program."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'stephen@woicik.me'
+google_analytics: ' '
+
+# Authors
+authors:
+  stephen:
+    name: stephen
+    display_name: stephen
+    gravatar: 
+    email: stephen@woicik.me
+    web: https://swoicik.com
+    twitter: https://twitter.com/swoicik
+    description: "Author of CHOICE: Personalized Learning, Personalized Technology. Has over 10 years of expereince working with K12 educational technology."
+  
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
