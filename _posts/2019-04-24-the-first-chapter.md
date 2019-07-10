@@ -11,7 +11,7 @@ featured: true
 ---
 *CHOICE: Personalized Learning, Personalized Technology*, is my newest book about how we can improve educational technology in schools today, and make it more impactful for each student. You can learn more about the book [here](/cyod). You can also [pre-order the book now](https://gum.co/CvEGu).
 
-![CHOICE](/assets/img/choice-3.png)
+![CHOICE](/assets/images/choice-3.png)
 
 ## Chapter 1
 
