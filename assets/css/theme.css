@@ -119,8 +119,8 @@ section.recent-posts {
     font-size: 0.94em;        
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
-    background: #6FD350;
-    color: #fff;
+    background: #fff100;
+    color: #000;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
         padding-left: 1em;
