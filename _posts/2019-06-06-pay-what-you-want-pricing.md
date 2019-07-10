@@ -7,8 +7,6 @@ tags:
 - CYOD
 post_date: 2019-06-06
 ---
-> This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book [here](https://swoicik.com/cyod).
-
 If you've been following along with the progress of the book, *CHOICE: Personalized Learning, Personalized Technology*, you'll know that it's now available for [pre-order](https://gumroad.com/l/CvEGu).
 
 Before making the book available for pre-order, I had to decide how to price it. There is an infinite amount of resources available when it comes to pricing. Everyone has some kind of theory or advice and plenty of examples to back it up.

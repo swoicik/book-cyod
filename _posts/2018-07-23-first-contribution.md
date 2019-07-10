@@ -6,13 +6,8 @@ published: true
 post_date: 2018-07-23
 tags: CYOD
 ---
-<blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
 
-</blockquote><a href="/cyod">
-
-<hr>
-
-</a><a href="/cyod">This project</a> has received its first financial contribution.
+This project has received its first financial contribution.
 
 The contribution was made anonymously through the <a href="https://buymeacoffee.com/swoicik">Buy me a coffee</a> link.
 

@@ -6,9 +6,6 @@ published: true
 date: 2018-12-20
 tags: CYOD Writing
 ---
-<blockquote>
-<p>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.</p>
-</blockquote>
 <p>I've set up a new writing and planning structure for <a href="http://swoicik.com/cyod/">the book</a>. It's based on Jeff Goins' <a href="https://goinswriter.com/three-buckets/" target="_blank" rel="noopener">3 Buckets</a>.</p>
 <p>The old strategy of having everything in one directory was overwhelming and chaotic (and not based on any real structure). It was difficult to stay on track with what had already been worked on and what needed to be worked on next. It amounted to having a lot of unorganized text files, and a lot of todo lists to track things. It wasn't a thought out plan.</p>
 <p>The new structure consists of 4 buckets or stages, as I refer to them. Each with it's own purpose.</p>

@@ -7,13 +7,12 @@ post_date: 2018-09-13
 permalink: /2018/quotes-on-education/
 categories: CYOD Quotes
 ---
-<blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
-
-</blockquote>During the process of writing <a href="/cyod">this book</a>, I have come across a number of quotes about education. I plan to have a quote at the start of each chapter or section. I’ve always been a fan of a good quote.
+During the process of writing, I have come across a number of quotes about education. I plan to have a quote at the start of each chapter or section. I’ve always been a fan of a good quote.
 
 I decided to share some of the quotes I’ve collected. They might be helpful to other people.
 
 This first quote, by author Neil Gaiman,is one of my favorites. I use it a lot in presentations as well.
+
 <blockquote>“The challenge becomes, not finding that scarce plant growing in the desert, but finding a specific plant growing in a jungle.” - Neil Gaiman
 
 </blockquote>This next quote is from Barack Obama. He was addressing an elementary school classroom.

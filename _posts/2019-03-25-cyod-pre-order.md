@@ -8,8 +8,6 @@ tags:
 featured: true
 post_date: 2019-03-25 16:04:25
 ---
-> This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book [here](https://swoicik.com/cyod).
-
 The book I have been writing for the past year or so is finally taking shape. The book is now [available for pre-order](https://gumroad.com/l/CvEGu). You can pre-order the book for as little as $0 (also known as free).
 
 The book is being released with pay what you want pricing. There will be a $10 add on if you want to physical version of the book to cover production costs.
