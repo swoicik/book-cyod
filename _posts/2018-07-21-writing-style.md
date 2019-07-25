@@ -5,7 +5,7 @@ layout: post
 published: true
 post_date: 2018-07-21
 tags: CYOD Writing
-image: assets/images/choice.png
+image: assets/images/CHOICE.png
 ---
 What will the writing style be?
 
