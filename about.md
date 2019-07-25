@@ -8,7 +8,7 @@ published: true
 <h3 style="text-align: center;">The book is now available for <a href="https://gumroad.com/l/CvEGu">Pre-Order</a>. Read the <a href="/2019/the-first-chapter">First Chapter Now</a>.</h3>
 
 <p style="text-align: center;">
-<img width="250" src="/assets/img/choice-3.png" />
+<img width="250" src="/assets/images/choice-1.jpeg" />
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
