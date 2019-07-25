@@ -6,6 +6,7 @@ published: true
 tags:
 - CYOD
 post_date: 2019-06-06
+image: assets/images/choice-1.jpeg
 ---
 If you've been following along with the progress of the book, *CHOICE: Personalized Learning, Personalized Technology*, you'll know that it's now available for [pre-order](https://gumroad.com/l/CvEGu).
 
