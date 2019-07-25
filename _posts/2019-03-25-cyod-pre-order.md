@@ -6,6 +6,7 @@ published: true
 tags:
 - CYOD
 featured: true
+image: assets/images/choice-1.jpeg
 post_date: 2019-03-25 16:04:25
 ---
 The book I have been writing for the past year or so is finally taking shape. The book is now [available for pre-order](https://gumroad.com/l/CvEGu). You can pre-order the book for as little as $0 (also known as free).
