@@ -5,7 +5,7 @@ layout: post
 published: true
 date: 2018-12-20
 tags: CYOD Writing
-image: assets/images/choice.png
+image: assets/images/CHOICE.png
 ---
 <p>I've set up a new writing and planning structure for <a href="http://swoicik.com/cyod/">the book</a>. It's based on Jeff Goins' <a href="https://goinswriter.com/three-buckets/" target="_blank" rel="noopener">3 Buckets</a>.</p>
 <p>The old strategy of having everything in one directory was overwhelming and chaotic (and not based on any real structure). It was difficult to stay on track with what had already been worked on and what needed to be worked on next. It amounted to having a lot of unorganized text files, and a lot of todo lists to track things. It wasn't a thought out plan.</p>
