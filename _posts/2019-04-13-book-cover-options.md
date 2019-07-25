@@ -6,6 +6,7 @@ published: true
 tags:
 - CYOD
 post_date: 2019-04-13
+image: assets/images/choice-3.png
 ---
 The book is starting to come together and getting some actual production value added. If you haven't [pre-ordered](https://gumroad.com/l/CvEGu) your copy already, please do so (it's free).
 
