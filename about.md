@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning, Personalized Technology
 author: stephen
-layout: about
+layout: page
 permalink: /about/
 published: true
 ---
